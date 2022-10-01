@@ -7,6 +7,7 @@ public class TestandoGit {
 		System.out.println("Testando Git");
 		System.out.println("git hub");
 		System.out.println("essa porra não foi");
+		System.out.println("agora essa porra foi");
 	}
 
 }
