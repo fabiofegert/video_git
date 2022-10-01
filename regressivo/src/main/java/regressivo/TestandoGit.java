@@ -9,6 +9,7 @@ public class TestandoGit {
 		System.out.println("essa porra não foi");
 		System.out.println("agora essa porra foi");
 		System.out.println("agora ta indo direto");
+		System.out.println("so pra ter ctz");
 	}
 
 }
